@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pito",
+        "apellido": "Cañas",
+        "correo": "luis.santos748@yahoo.com",
+        "password": "Luis123",
+        "telefono": "74992373",
+        "nacimiento": "22-07-1999"
+    },
+    {
+        "id": 2,
+        "nombre": "Eduardo",
+        "apellido": "Santos",
+        "correo": "luis.pirinfulo@gmail.com",
+        "password": "Eduardo123",
+        "telefono": "22840125",
+        "nacimiento": "22-06-1998"
+    },
+    {
+        "id": 3,
+        "nombre": "Sofia",
+        "apellido": "Vergara",
+        "correo": "luis.pirinfulo@gmail.com",
+        "password": "Sofia123",
+        "telefono": "22840125",
+        "nacimiento": "22-06-1998"
+    },
+    {
+        "id": 4,
+        "nombre": "Horacio",
+        "apellido": "Perez",
+        "correo": "luis.pirinfulo@gmail.com",
+        "password": "Horacio123",
+        "telefono": "22840125",
+        "nacimiento": "22-06-1998"
+    },
+    {
+        "id": 5,
+        "nombre": "Edwin",
+        "apellido": "Fuentes",
+        "correo": "luis.pirinfulo@gmail.com",
+        "password": "Edwin123",
+        "telefono": "22840125",
+        "nacimiento": "22-06-1998"
+    }
+]

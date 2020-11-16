@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "capacidad": 4,
+        "descripcion": "Mesa redonda con capacidad de 4 personas"
+    },
+    {
+        "id": 2,
+        "capacidad": 5,
+        "descripcion": "Mesa rectangular con capacidad de 5 personas"
+    },
+    {
+        "id": 3,
+        "capacidad": 6,
+        "descripcion": "Mesa redonda con capacidad de 6 personas"
+    },
+    {
+        "id": 4,
+        "capacidad": 12,
+        "descripcion": "Mesa redonda con capacidad de 12 personas"
+    },
+    {
+        "id": 5,
+        "capacidad": 2,
+        "descripcion": "Mesa redonda con capacidad de 2 personas"
+    }
+]

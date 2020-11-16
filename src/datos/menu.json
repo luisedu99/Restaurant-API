@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "titulo": "Bife",
+        "descripcion": "8 Oz. De Bife. De Entraña, acompañado de arroz y ensalada",
+        "imagen": "https://restaurante.elarriero.com.sv/wp-content/uploads/2016/10/con-chorizo.jpg",
+        "precio": 10.75
+    },
+    {
+        "id": 2,
+        "titulo": "Entraña",
+        "descripcion": "10 Oz. De Entraña, acompañado de papas y ensalada",
+        "imagen": "https://larecetade.com/wp-content/uploads/2020/09/entrana-al-horno.jpg",
+        "precio": 14.5
+    },
+    {
+        "id": 3,
+        "titulo": "Coulotte",
+        "descripcion": "10 Oz. de Puyazo Americano, acompañado de dos guarniciones de tu elección.",
+        "imagen": "https://cdn.shopify.com/s/files/1/2255/3255/products/Square__0002_beef_coulotte_steak.jpg?v=1579445584",
+        "precio": 16.99
+    },
+    {
+        "id": 4,
+        "titulo": "Rib Eye",
+        "descripcion": "12 Oz. De Rib Eye, acompañado de papas fritas y vegetales salteados.",
+        "imagen": "https://ux2cms.imgix.net/images/reverse-seared-smoked-rib-eye-1.jpg?w=725&auto=compress,format&blend=https://ux2cms.imgix.net/system-images/gray-overlay-large.png?bs=inherit&balph=0&bm=normal",
+        "precio": 22.99
+    }
+]
